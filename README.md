@@ -4,10 +4,10 @@ DDL COMMANDS(create,alter,drop)-(https://github.com/LohithSai01/DBMS/blob/main/E
 ## EXPERMENT 2
 DDL COMMANDS with CONSTRAINTS(primary key,foreign key,unique,check)-()
 ## EXPERMENT 3
-DDL COMMANDS(INSERT,SELECT)-(https://github.com/LohithSai01/DBMS/blob/main/EXP%201%20DBMS.png)
+DDL COMMANDS(INSERT,SELECT)-()
 ## EXPERIMENT 4
-DML COMMANDS(UPDATE,DELETE)-(https://github.com/LohithSai01/DBMS/blob/main/EXP%201%20DBMS.png)
+DML COMMANDS(UPDATE,DELETE)-()
 ## EXPERIMENT 5
-SELECT with various clauses(WHERE,PATTERN MATCHING)-(https://github.com/LohithSai01/DBMS/blob/main/EXP%201%20DBMS.png)
+SELECT with various clauses(WHERE,PATTERN MATCHING)-()
 ## EXPERIMENT 6
-SELECT with various clauses(BETWEEN,IN,AGGREATE FUNCTION)-(https://github.com/LohithSai01/DBMS/blob/main/EXP%201%20DBMS.png)
+SELECT with various clauses(BETWEEN,IN,AGGREATE FUNCTION)-()
